@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Fredericka+the+Great&family=Fredoka+One&family=Shizuru&family=Staatliches&display=swap');
+body {
+    background-image: url('empty-blackboard.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  div.container{
+      padding: 15px;
+  }
+  h1{
+    text-align: center;
+    color: azure;
+    font-family: 'Fredericka the Great', cursive;
+  }
+  h2{
+    text-align: center;
+    color: rgb(255, 215, 35);
+    font-family: 'Fredericka the Great', cursive;
+  }
+  h3{
+    font-family: 'Akaya Telivigala', cursive;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+p{
+    font-family: 'Akaya Telivigala', cursive;
+    text-decoration: underline ;
+    color: rgb(255, 255, 255);
+}
+p.syll{
+    font-family: 'Akaya Telivigala', cursive;
+    color: rgb(255, 255, 255);
+}
+ol{
+    font-family: 'Akaya Telivigala', cursive;
+    color: rgb(255, 255, 255); 
+}
+ul{
+    font-family: 'Akaya Telivigala', cursive;
+    color: rgb(255, 255, 255);
+}
+div.sml{
+    font-family: 'Akaya Telivigala', cursive;
+    text-decoration: underline ;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+div.before{
+    font-family: 'Akaya Telivigala', cursive;
+    text-decoration: underline ;
+    color: rgb(255, 255, 255);
+}
+div.activ{
+    font-size: 15px;
+    font-family: 'Akaya Telivigala', cursive;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
