@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Fredericka+the+Great&family=Fredoka+One&family=Shizuru&family=Staatliches&display=swap');
 body {
-    background-image: url('empty-blackboard.jpg');
+    background: rgb(7, 85, 0);
     background-repeat: no-repeat;
     background-size: cover;
   }
